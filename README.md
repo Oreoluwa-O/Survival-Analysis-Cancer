@@ -36,6 +36,5 @@ Key outputs include:
 - Statistical significance of clinical predictors on patient survival
 
 ## Author
-**Oreoluwa Oyetubo** — M.S. Statistics  
-Biostatistics & Health Analytics Researcher  
+**Oreoluwa Oyetubo** — M.S. Statistics   
 [GitHub Profile](https://github.com/Oreoluwa-O)
